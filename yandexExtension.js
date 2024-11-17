@@ -2,7 +2,7 @@
     'use strict';
 
     // Подключение Yandex SDK
-    const sdkUrl = "https://yandex.ru/games/sdk/v2";
+    const sdkUrl = "https://raw.githubusercontent.com/Krosto4/yandexSDK/refs/heads/main/yandexSDK.js";
 
     // Асинхронная загрузка Yandex SDK
     const loadSdk = async () => {
